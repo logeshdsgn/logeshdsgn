@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devilzzz-lab/devilzzz-lab/main/assets/mario-pixel-room.gif"
+       width="600"
+       alt="Mario Pixel Room" />
+</p>
+
 <h1 align="center"><img src="./assets/arcade-heading.gif?v=e26c02f7" alt="⟁ Hello, World!" /></h1>
 
 <p align="center">
