@@ -15,17 +15,12 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,js,html,css,nodejs,express,d3,git,github&amp;theme=dark&amp;perline=12" alt="React, TypeScript, Vite, Tailwind CSS, JavaScript, HTML, CSS, Node.js, Express, D3.js, Git, and GitHub" />
 </p>
 
-## Currently exploring
+## Projects
 
-Creative applications of AI, 3D & digital design.
-
-## ⟁ <img src="./assets/pixel-coin.png" alt="" width="22" height="22" /> INSERT COIN · PROJECT ARCADE
-
-| <img src="./assets/pixel-gamepad.png" alt="" width="18" height="18" /> PROJECT | <img src="./assets/pixel-document.png" alt="" width="18" height="18" /> DESCRIPTION | <img src="./assets/pixel-lightning.png" alt="" width="18" height="18" /> EXPLORE |
-| :--- | :--- | :---: |
-| **Prompt&nbsp;Mania** | A curated prompt engineering framework library. | [PLAY ↗](https://github.com/logeshdsgn/prompt_mania) |
-| **Tamil Clock** | An interactive Tamilakam-inspired clock blending traditional timekeeping, astronomy, and Sangam literature. | [PLAY ↗](https://github.com/logeshdsgn/tamil-clock) |
-
+| **Repository** | **Link** | **Description** |
+| --- | --- | --- |
+| **Prompt Mania** | [GitHub](https://github.com/logeshdsgn/prompt_mania) · [Live app](https://logeshdsgn.github.io/prompt_mania/) | A curated prompt engineering framework library. |
+| **Tamil Clock** | [GitHub](https://github.com/logeshdsgn/tamil-clock) | An interactive Tamilakam-inspired clock blending traditional timekeeping, astronomy, and Sangam literature. |
 <p align="center">
   <img src="./gitartwork.svg?v=a8d3befe" alt="LOGESH on my GitHub contribution graph" />
 </p>
