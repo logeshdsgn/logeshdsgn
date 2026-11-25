@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-room.gif?v=43ee588c" alt="Original animated pixel-art portrait of an anime-inspired creative at a computer" width="100%" />
+</p>
+
 # logeshdsgn
 
 <p align="center">
