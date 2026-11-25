@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="112" viewBox="0 0 360 112" role="img" shape-rendering="crispEdges">
+<defs><clipPath id="viewport"><rect width="360" height="112" rx="8"/></clipPath>
+<linearGradient id="fadeLeft" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F6F8FA"/><stop offset="1" stop-color="#F6F8FA" stop-opacity="0"/></linearGradient>
+<linearGradient id="fadeRight" x1="1" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#F6F8FA"/><stop offset="1" stop-color="#F6F8FA" stop-opacity="0"/></linearGradient></defs>
+<style>.belt{animation:scroll 36s linear infinite}@keyframes scroll{to{transform:translateX(-960px)}}@media(prefers-reduced-motion:reduce){.belt{animation:none}}</style>
+<rect width="360" height="112" rx="8" fill="#F6F8FA" stroke="#D0D7DE"/>
+<g clip-path="url(#viewport)" class="belt">
+<g transform="translate(0 0)">
+<rect x="8" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1"/>
+<rect x="13" y="13" width="4" height="4" fill="#38BDF8"/><rect x="63" y="63" width="4" height="4" fill="#38BDF8"/>
+<text x="40" y="48" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#38BDF8">R</text>
+<rect x="32" y="76" width="16" height="2" fill="#38BDF8"/><text x="40" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">React</text>
+<rect x="88" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1"/>
+<rect x="93" y="13" width="4" height="4" fill="#38BDF8"/><rect x="143" y="63" width="4" height="4" fill="#38BDF8"/>
+<text x="120" y="48" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" fill="#38BDF8">TS</text>
+<rect x="112" y="76" width="16" height="2" fill="#38BDF8"/><text x="120" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">TypeScript</text>
+<rect x="168" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#A855F7" stroke-width="1"/>
+<rect x="173" y="13" width="4" height="4" fill="#A855F7"/><rect x="223" y="63" width="4" height="4" fill="#A855F7"/>
+<text x="200" y="48" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#A855F7">V</text>
+<rect x="192" y="76" width="16" height="2" fill="#A855F7"/><text x="200" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Vite</text>
+<rect x="248" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#44D62C" stroke-width="1"/>
+<rect x="253" y="13" width="4" height="4" fill="#44D62C"/><rect x="303" y="63" width="4" height="4" fill="#44D62C"/>
+<text x="280" y="48" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" fill="#44D62C">TW</text>
+<rect x="272" y="76" width="16" height="2" fill="#44D62C"/><text x="280" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Tailwind</text>
+<rect x="328" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FFD700" stroke-width="1"/>
+<rect x="333" y="13" width="4" height="4" fill="#FFD700"/><rect x="383" y="63" width="4" height="4" fill="#FFD700"/>
+<text x="360" y="48" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" fill="#FFD700">JS</text>
+<rect x="352" y="76" width="16" height="2" fill="#FFD700"/><text x="360" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">JavaScript</text>
+<rect x="408" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FF4B4B" stroke-width="1"/>
+<rect x="413" y="13" width="4" height="4" fill="#FF4B4B"/><rect x="463" y="63" width="4" height="4" fill="#FF4B4B"/>
+<text x="440" y="48" text-anchor="middle" font-family="monospace" font-size="12" font-weight="700" fill="#FF4B4B">HTML</text>
+<rect x="432" y="76" width="16" height="2" fill="#FF4B4B"/><text x="440" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">HTML</text>
+<rect x="488" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1"/>
+<rect x="493" y="13" width="4" height="4" fill="#38BDF8"/><rect x="543" y="63" width="4" height="4" fill="#38BDF8"/>
+<text x="520" y="48" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" fill="#38BDF8">CSS</text>
+<rect x="512" y="76" width="16" height="2" fill="#38BDF8"/><text x="520" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">CSS</text>
+<rect x="568" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#44D62C" stroke-width="1"/>
+<rect x="573" y="13" width="4" height="4" fill="#44D62C"/><rect x="623" y="63" width="4" height="4" fill="#44D62C"/>
+<text x="600" y="48" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#44D62C">N</text>
+<rect x="592" y="76" width="16" height="2" fill="#44D62C"/><text x="600" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Node.js</text>
+<rect x="648" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FFD700" stroke-width="1"/>
+<rect x="653" y="13" width="4" height="4" fill="#FFD700"/><rect x="703" y="63" width="4" height="4" fill="#FFD700"/>
+<text x="680" y="48" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" fill="#FFD700">EX</text>
+<rect x="672" y="76" width="16" height="2" fill="#FFD700"/><text x="680" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Express</text>
+<rect x="728" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#A855F7" stroke-width="1"/>
+<rect x="733" y="13" width="4" height="4" fill="#A855F7"/><rect x="783" y="63" width="4" height="4" fill="#A855F7"/>
+<text x="760" y="48" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700" fill="#A855F7">D3</text>
+<rect x="752" y="76" width="16" height="2" fill="#A855F7"/><text x="760" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">D3.js</text>
+<rect x="808" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FF4B4B" stroke-width="1"/>
+<rect x="813" y="13" width="4" height="4" fill="#FF4B4B"/><rect x="863" y="63" width="4" height="4" fill="#FF4B4B"/>
+<text x="840" y="48" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" fill="#FF4B4B">GIT</text>
+<rect x="832" y="76" width="16" height="2" fill="#FF4B4B"/><text x="840" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Git</text>
+<rect x="888" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FFD700" stroke-width="1"/>
+<rect x="893" y="13" width="4" height="4" fill="#FFD700"/><rect x="943" y="63" width="4" height="4" fill="#FFD700"/>
+<text x="920" y="48" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" fill="#FFD700">GH</text>
+<rect x="912" y="76" width="16" height="2" fill="#FFD700"/><text x="920" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">GitHub</text>
+</g>
+<g transform="translate(960 0)">
+<rect x="8" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1"/>
+<rect x="13" y="13" width="4" height="4" fill="#38BDF8"/><rect x="63" y="63" width="4" height="4" fill="#38BDF8"/>
+<text x="40" y="48" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#38BDF8">R</text>
+<rect x="32" y="76" width="16" height="2" fill="#38BDF8"/><text x="40" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">React</text>
+<rect x="88" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1"/>
+<rect x="93" y="13" width="4" height="4" fill="#38BDF8"/><rect x="143" y="63" width="4" height="4" fill="#38BDF8"/>
+<text x="120" y="48" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" fill="#38BDF8">TS</text>
+<rect x="112" y="76" width="16" height="2" fill="#38BDF8"/><text x="120" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">TypeScript</text>
+<rect x="168" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#A855F7" stroke-width="1"/>
+<rect x="173" y="13" width="4" height="4" fill="#A855F7"/><rect x="223" y="63" width="4" height="4" fill="#A855F7"/>
+<text x="200" y="48" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#A855F7">V</text>
+<rect x="192" y="76" width="16" height="2" fill="#A855F7"/><text x="200" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Vite</text>
+<rect x="248" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#44D62C" stroke-width="1"/>
+<rect x="253" y="13" width="4" height="4" fill="#44D62C"/><rect x="303" y="63" width="4" height="4" fill="#44D62C"/>
+<text x="280" y="48" text-anchor="middle" font-family="monospace" font-size="16" font-weight="700" fill="#44D62C">TW</text>
+<rect x="272" y="76" width="16" height="2" fill="#44D62C"/><text x="280" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Tailwind</text>
+<rect x="328" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FFD700" stroke-width="1"/>
+<rect x="333" y="13" width="4" height="4" fill="#FFD700"/><rect x="383" y="63" width="4" height="4" fill="#FFD700"/>
+<text x="360" y="48" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700" fill="#FFD700">JS</text>
+<rect x="352" y="76" width="16" height="2" fill="#FFD700"/><text x="360" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">JavaScript</text>
+<rect x="408" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FF4B4B" stroke-width="1"/>
+<rect x="413" y="13" width="4" height="4" fill="#FF4B4B"/><rect x="463" y="63" width="4" height="4" fill="#FF4B4B"/>
+<text x="440" y="48" text-anchor="middle" font-family="monospace" font-size="12" font-weight="700" fill="#FF4B4B">HTML</text>
+<rect x="432" y="76" width="16" height="2" fill="#FF4B4B"/><text x="440" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">HTML</text>
+<rect x="488" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#38BDF8" stroke-width="1"/>
+<rect x="493" y="13" width="4" height="4" fill="#38BDF8"/><rect x="543" y="63" width="4" height="4" fill="#38BDF8"/>
+<text x="520" y="48" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" fill="#38BDF8">CSS</text>
+<rect x="512" y="76" width="16" height="2" fill="#38BDF8"/><text x="520" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">CSS</text>
+<rect x="568" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#44D62C" stroke-width="1"/>
+<rect x="573" y="13" width="4" height="4" fill="#44D62C"/><rect x="623" y="63" width="4" height="4" fill="#44D62C"/>
+<text x="600" y="48" text-anchor="middle" font-family="monospace" font-size="24" font-weight="700" fill="#44D62C">N</text>
+<rect x="592" y="76" width="16" height="2" fill="#44D62C"/><text x="600" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Node.js</text>
+<rect x="648" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FFD700" stroke-width="1"/>
+<rect x="653" y="13" width="4" height="4" fill="#FFD700"/><rect x="703" y="63" width="4" height="4" fill="#FFD700"/>
+<text x="680" y="48" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" fill="#FFD700">EX</text>
+<rect x="672" y="76" width="16" height="2" fill="#FFD700"/><text x="680" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Express</text>
+<rect x="728" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#A855F7" stroke-width="1"/>
+<rect x="733" y="13" width="4" height="4" fill="#A855F7"/><rect x="783" y="63" width="4" height="4" fill="#A855F7"/>
+<text x="760" y="48" text-anchor="middle" font-family="monospace" font-size="20" font-weight="700" fill="#A855F7">D3</text>
+<rect x="752" y="76" width="16" height="2" fill="#A855F7"/><text x="760" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">D3.js</text>
+<rect x="808" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FF4B4B" stroke-width="1"/>
+<rect x="813" y="13" width="4" height="4" fill="#FF4B4B"/><rect x="863" y="63" width="4" height="4" fill="#FF4B4B"/>
+<text x="840" y="48" text-anchor="middle" font-family="monospace" font-size="14" font-weight="700" fill="#FF4B4B">GIT</text>
+<rect x="832" y="76" width="16" height="2" fill="#FF4B4B"/><text x="840" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">Git</text>
+<rect x="888" y="8" width="64" height="64" rx="4" fill="#FFFFFF" stroke="#FFD700" stroke-width="1"/>
+<rect x="893" y="13" width="4" height="4" fill="#FFD700"/><rect x="943" y="63" width="4" height="4" fill="#FFD700"/>
+<text x="920" y="48" text-anchor="middle" font-family="monospace" font-size="18" font-weight="700" fill="#FFD700">GH</text>
+<rect x="912" y="76" width="16" height="2" fill="#FFD700"/><text x="920" y="98" text-anchor="middle" font-family="monospace" font-size="12" fill="#253047">GitHub</text>
+</g>
+</g>
+<rect width="24" height="112" fill="url(#fadeLeft)"/><rect x="336" width="24" height="112" fill="url(#fadeRight)"/>
+</svg>
