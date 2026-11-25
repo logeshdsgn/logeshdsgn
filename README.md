@@ -1,5 +1,7 @@
 <p align="center">
-  <img src= assets/mario-pixel-room.gif />
+  <img src="https://raw.githubusercontent.com/devilzzz-lab/devilzzz-lab/main/assets/mario-pixel-room.gif"
+       width="600"
+       alt="Mario Pixel Room" />
 </p>
 
 # logeshdsgn
