@@ -19,9 +19,11 @@
 
 Creative applications of AI, 3D & digital design.
 
-## Featured projects
+## ⟁ INSERT COIN · PROJECT ARCADE
 
-- [Prompt Mania](https://github.com/logeshdsgn/prompt_mania) · [Live app](https://logeshdsgn.github.io/prompt_mania/) — A curated prompt engineering framework library.
-- [Tamil Clock](https://github.com/logeshdsgn/tamil-clock) — An interactive, Tamilakam-inspired clock blending traditional timekeeping, astronomy, and Sangam literature.
+| 🕹️ PROJECT | 📜 DESCRIPTION | ⚡ EXPLORE |
+| :--- | :--- | :---: |
+| **Prompt Mania** | A curated prompt engineering framework library. | [PLAY ↗](https://github.com/logeshdsgn/prompt_mania) |
+| **Tamil Clock** | An interactive Tamilakam-inspired clock blending traditional timekeeping, astronomy, and Sangam literature. | [PLAY ↗](https://github.com/logeshdsgn/tamil-clock) |
 
 ![LOGESH on my GitHub contribution graph](./gitartwork.svg?v=a8d3befe)
