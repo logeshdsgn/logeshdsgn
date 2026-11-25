@@ -15,12 +15,12 @@
   <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,js,html,css,nodejs,express,d3,git,github&amp;theme=dark&amp;perline=12" alt="React, TypeScript, Vite, Tailwind CSS, JavaScript, HTML, CSS, Node.js, Express, D3.js, Git, and GitHub" />
 </p>
 
-## Projects
+## FEATURED PROJECTS
 
-| **Repository** | **Link** | **Description** |
+| **Name** | **Description** | **Link** |
 | --- | --- | --- |
-| **Prompt Mania** | [GitHub](https://github.com/logeshdsgn/prompt_mania) · [Live app](https://logeshdsgn.github.io/prompt_mania/) | A curated prompt engineering framework library. |
-| **Tamil Clock** | [GitHub](https://github.com/logeshdsgn/tamil-clock) | An interactive Tamilakam-inspired clock blending traditional timekeeping, astronomy, and Sangam literature. |
+| **Prompt Mania** | A curated prompt engineering framework library. | [View](https://logeshdsgn.github.io/prompt_mania/) |
+| **Tamil Clock** | An interactive Tamilakam-inspired clock blending traditional timekeeping, astronomy, and Sangam literature. | [View](https://github.com/logeshdsgn/tamil-clock) |
 <p align="center">
   <img src="./gitartwork.svg?v=a8d3befe" alt="LOGESH on my GitHub contribution graph" />
 </p>
