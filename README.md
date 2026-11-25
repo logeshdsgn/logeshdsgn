@@ -19,11 +19,10 @@
 
 Creative applications of AI, 3D & digital design.
 
-## ⟁ INSERT COIN · PROJECT ARCADE
+## ⟁ <img src="./assets/pixel-coin.png" alt="" width="22" height="22" /> INSERT COIN · PROJECT ARCADE
 
-| 🕹️ PROJECT | 📜 DESCRIPTION | ⚡ EXPLORE |
+| <img src="./assets/pixel-gamepad.png" alt="" width="18" height="18" /> PROJECT | <img src="./assets/pixel-document.png" alt="" width="18" height="18" /> DESCRIPTION | <img src="./assets/pixel-lightning.png" alt="" width="18" height="18" /> EXPLORE |
 | :--- | :--- | :---: |
-| **Prompt Mania** | A curated prompt engineering framework library. | [PLAY ↗](https://github.com/logeshdsgn/prompt_mania) |
+| **Prompt&nbsp;Mania** | A curated prompt engineering framework library. | [PLAY ↗](https://github.com/logeshdsgn/prompt_mania) |
 | **Tamil Clock** | An interactive Tamilakam-inspired clock blending traditional timekeeping, astronomy, and Sangam literature. | [PLAY ↗](https://github.com/logeshdsgn/tamil-clock) |
-
 ![LOGESH on my GitHub contribution graph](./gitartwork.svg?v=a8d3befe)
