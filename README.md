@@ -23,6 +23,6 @@
 
 ## Currently exploring
 
-Creative applications of AI, 3D, and digital design.
+Creative applications of AI, 3D & digital design.
 
 ![LOGESH on my GitHub contribution graph](./gitartwork.svg?v=a8d3befe)
