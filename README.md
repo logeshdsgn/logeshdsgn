@@ -26,4 +26,6 @@ Creative applications of AI, 3D & digital design.
 | **Prompt&nbsp;Mania** | A curated prompt engineering framework library. | [PLAY ↗](https://github.com/logeshdsgn/prompt_mania) |
 | **Tamil Clock** | An interactive Tamilakam-inspired clock blending traditional timekeeping, astronomy, and Sangam literature. | [PLAY ↗](https://github.com/logeshdsgn/tamil-clock) |
 
-![LOGESH on my GitHub contribution graph](./gitartwork.svg?v=a8d3befe)
+<p align="center">
+  <img src="./gitartwork.svg?v=a8d3befe" alt="LOGESH on my GitHub contribution graph" />
+</p>
