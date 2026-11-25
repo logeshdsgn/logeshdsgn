@@ -11,9 +11,10 @@
 </p>
 <h2><img src="./assets/pixel-chip.png" alt="" width="22" height="22" /> TECH STACK</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,vite,tailwind,js,html,css,nodejs,express,d3,git,github&amp;theme=dark&amp;perline=12" alt="React, TypeScript, Vite, Tailwind CSS, JavaScript, HTML, CSS, Node.js, Express, D3.js, Git, and GitHub" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg" />
+  <img src="./assets/tech-stack-light.svg" alt="React, TypeScript, Vite, Tailwind CSS, JavaScript, HTML, CSS, Node.js, Express, D3.js, Git, and GitHub" width="100%" />
+</picture>
 
 ## FEATURED PROJECTS
 
