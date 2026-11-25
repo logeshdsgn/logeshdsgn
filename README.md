@@ -12,6 +12,8 @@
 <h2><img src="./assets/pixel-chip.png" alt="" width="22" height="22" /> TECH STACK</h2>
 
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark-mobile.svg" />
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/tech-stack-light-mobile.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg" />
   <img src="./assets/tech-stack-light.svg" alt="React, TypeScript, Vite, Tailwind CSS, JavaScript, HTML, CSS, Node.js, Express, D3.js, Git, and GitHub" width="100%" />
 </picture>
