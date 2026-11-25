@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=9FE870&center=true&vCenter=true&width=800&lines=Building+creative+experiences+through+AI%2C+3D+%26+digital+design.;Turning+imagination+into+interactive+experiences.;Exploring+the+intersection+of+engineering%2C+creativity+%26+AI."
-  />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=800&lines=Curious+mind.+Creative+experiments.+Endless+possibilities.;Always+learning%2C+always+creating."
   />
 </p>
