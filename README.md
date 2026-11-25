@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1500&color=AAAAAA&center=true&vCenter=true&width=800&lines=Curious+mind.+Creative+experiments.+Endless+possibilities.;Always+learning%2C+always+creating."
-  />
-</p>
-
 <h1 align="center"><img src="./assets/arcade-heading.gif?v=e26c02f7" alt="⟁ Hello, World!" /></h1>
 
 <p align="center">
