@@ -13,7 +13,12 @@
   <img src="./assets/tech-stack.svg" width="100%" alt="Animated retro tech stack" />
 </p>
 
-## FEATURED PROJECTS
+<h2 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-projects-dark.svg" />
+    <img src="./assets/featured-projects-light.svg" alt="FEATURED PROJECTS" width="100%" />
+  </picture>
+</h2>
 
 <p align="center">
   <a href="https://logeshdsgn.github.io/prompt_mania/"><img src="./assets/cards/prompt-mania.svg" width="29%" alt="Prompt Mania: curated prompt engineering framework library" /></a>&nbsp;&nbsp;
