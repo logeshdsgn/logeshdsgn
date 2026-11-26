@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="56" viewBox="0 0 900 56" role="img" aria-labelledby="title" shape-rendering="crispEdges">
+<title id="title">FEATURED PROJECTS</title>
+<path d="M22 4H878V8H886V14H890V42H886V48H878V52H22V48H14V42H10V14H14V8H22Z" fill="none" stroke="#A855F7" stroke-width="2"/>
+<path d="M68 28h164M668 28h164" fill="none" stroke="#A855F7" stroke-width="2"/>
+<rect x="28" y="12" width="8" height="8" fill="#FF4B4B"/><rect x="40" y="12" width="8" height="8" fill="#FFD700"/>
+<rect x="852" y="40" width="8" height="8" fill="#44D62C"/><rect x="864" y="40" width="8" height="8" fill="#38BDF8"/>
+<rect x="28" y="40" width="8" height="8" fill="#A855F7"/><rect x="864" y="12" width="8" height="8" fill="#A855F7"/>
+<text x="450" y="40" text-anchor="middle" font-family="monospace" font-size="36" font-weight="700" letter-spacing="1.5" fill="#F0F6FC">FEATURED PROJECTS</text>
+</svg>
