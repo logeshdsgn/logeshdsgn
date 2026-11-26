@@ -23,10 +23,10 @@
 <p align="center">
   <a href="https://logeshdsgn.github.io/prompt_mania/"><img src="./assets/cards/prompt-mania.svg" width="29%" alt="Prompt Mania: curated prompt engineering framework library" /></a>&nbsp;&nbsp;
   <a href="https://nazhigai.vercel.app"><img src="./assets/cards/tamil-clock.svg" width="29%" alt="Tamil Clock: interactive Tamilakam-inspired clock" /></a>&nbsp;&nbsp;
-  <img src="./assets/cards/cricket-dynasty.svg" width="29%" alt="Cricket Dynasty: in development" />
+  <img src="./assets/cards/ram-radio.svg" width="29%" alt="RAM Radio: in development" />
 </p>
 <p align="center">
-  <img src="./assets/cards/ram-radio.svg" width="29%" alt="RAM Radio: in development" />&nbsp;&nbsp;
+  <img src="./assets/cards/cricket-dynasty.svg" width="29%" alt="Cricket Dynasty: in development" />&nbsp;&nbsp;
   <img src="./assets/cards/kuralverse.svg" width="29%" alt="Kuralverse: in development" />&nbsp;&nbsp;
   <img src="./assets/cards/us.svg" width="29%" alt="US: couple-focused clock and relationship experience; final tweaks in progress" />
 </p>
