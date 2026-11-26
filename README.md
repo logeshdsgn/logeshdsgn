@@ -35,12 +35,12 @@
   <img src="./assets/cards/biogiant.svg" width="29%" alt="BioGiant: explore Earth's biodiversity, species and ecosystems; final tweaks in progress" />&nbsp;&nbsp;
   <img src="./assets/cards/zvingo.svg" width="29%" alt="Zvingo: a little charm that swings on your screen; final tweaks in progress" />
 </p>
-<!-- UPCOMING_PROJECTS_START: Keep planned cards at the end, grouped three per row as the queue grows. -->
+<!-- Keep the 3x4 featured grid at twelve cards; additional project art belongs on PROJECTS.md. -->
 <p align="center">
   <img src="./assets/cards/parambara.svg" width="29%" alt="Parambara: digital family tree platform; final tweaks in progress" />&nbsp;&nbsp;
   <img src="./assets/cards/homevault.svg" width="29%" alt="HomeVault: home organizer; up next" />&nbsp;&nbsp;
-  <img src="./assets/cards/locked.svg" width="29%" alt="One more upcoming project remains locked" />
+  <a href="https://github.com/logeshdsgn/logeshdsgn/blob/main/PROJECTS.md"><img src="./assets/cards/project-credits.svg" width="29%" alt="Upcoming project credits; open the full project list" /></a>
 </p>
-<!-- UPCOMING_PROJECTS_END --><p align="center">
+<p align="center">
   <img src="./gitartwork.svg?v=a8d3befe" alt="LOGESH on my GitHub contribution graph" />
 </p>
