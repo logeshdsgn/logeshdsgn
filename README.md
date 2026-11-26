@@ -9,21 +9,16 @@
 <p align="center">
   <img src="./assets/arcade-lines.gif?v=c4548326" alt="Building creative experiences through AI, 3D &amp; digital design. Exploring where imagination meets technology." />
 </p>
-<h2><img src="./assets/pixel-chip.png" alt="" width="22" height="22" /> TECH STACK</h2>
-
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark-mobile.svg" />
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/tech-stack-light-mobile.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark.svg" />
-  <img src="./assets/tech-stack-light.svg" alt="React, TypeScript, Vite, Tailwind CSS, JavaScript, HTML, CSS, Node.js, Express, D3.js, Git, and GitHub" width="100%" />
-</picture>
+<p align="center">
+  <img src="./assets/tech-stack.svg" width="100%" alt="Animated retro tech stack" />
+</p>
 
 ## FEATURED PROJECTS
 
-| **Name** | **Description** | **Link** |
-| --- | --- | --- |
-| **Prompt Mania** | A curated prompt engineering framework library. | [View](https://logeshdsgn.github.io/prompt_mania/) |
-| **Tamil Clock** | An interactive Tamilakam-inspired clock blending traditional timekeeping, astronomy, and Sangam literature. | [View](https://github.com/logeshdsgn/tamil-clock) |
+<p align="center">
+  <a href="https://logeshdsgn.github.io/prompt_mania/"><img src="./assets/cards/prompt-mania.svg" width="32%" alt="Prompt Mania: curated prompt engineering framework library" /></a>
+  <a href="https://github.com/logeshdsgn/tamil-clock"><img src="./assets/cards/tamil-clock.svg" width="32%" alt="Tamil Clock: interactive Tamilakam-inspired clock" /></a>
+</p>
 <p align="center">
   <img src="./gitartwork.svg?v=a8d3befe" alt="LOGESH on my GitHub contribution graph" />
 </p>
