@@ -39,7 +39,7 @@
 <p align="center">
   <img src="./assets/cards/parambara.svg" width="29%" alt="Parambara: digital family tree platform; final tweaks in progress" />&nbsp;&nbsp;
   <img src="./assets/cards/homevault.svg" width="29%" alt="HomeVault: home organizer; up next" />&nbsp;&nbsp;
-  <a href="https://github.com/logeshdsgn/logeshdsgn/blob/main/PROJECTS.md"><img src="./assets/cards/project-credits.svg" width="29%" alt="Upcoming project credits; open the full project list" /></a>
+  <a href="https://github.com/logeshdsgn/logeshdsgn/blob/main/PROJECTS.md"><img src="./assets/cards/locked.svg" width="29%" alt="Question mark fades into upcoming project credits; open the full list" /></a>
 </p>
 <p align="center">
   <img src="./gitartwork.svg?v=a8d3befe" alt="LOGESH on my GitHub contribution graph" />
