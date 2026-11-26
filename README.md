@@ -31,5 +31,14 @@
   <img src="./assets/cards/locked.svg" width="29%" alt="Next project locked" />
 </p>
 <p align="center">
+  <img src="./assets/cards/us.svg" width="29%" alt="US: couple-focused clock and relationship experience; final tweaks in progress" />&nbsp;&nbsp;
+  <img src="./assets/cards/intus.svg" width="29%" alt="Intus: investment and business management dashboard; final tweaks in progress" />&nbsp;&nbsp;
+  <img src="./assets/cards/biogiant.svg" width="29%" alt="BioGiant: explore Earth's biodiversity, species and ecosystems; final tweaks in progress" />
+</p>
+<p align="center">
+  <img src="./assets/cards/zvingo.svg" width="29%" alt="Zvingo: a little charm that swings on your screen; final tweaks in progress" />&nbsp;&nbsp;
+  <img src="./assets/cards/parambara.svg" width="29%" alt="Parambara: digital family tree platform; final tweaks in progress" />
+</p>
+<p align="center">
   <img src="./gitartwork.svg?v=a8d3befe" alt="LOGESH on my GitHub contribution graph" />
 </p>
