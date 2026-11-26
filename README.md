@@ -20,5 +20,13 @@
   <a href="https://github.com/logeshdsgn/tamil-clock"><img src="./assets/cards/tamil-clock.svg" width="30%" alt="Tamil Clock: interactive Tamilakam-inspired clock" /></a>
 </p>
 <p align="center">
+  <img src="./assets/cards/cricket-dynasty.svg" width="30%" alt="Cricket Dynasty: in development" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/cards/ram-radio.svg" width="30%" alt="RAM Radio: in development" />
+</p>
+<p align="center">
+  <img src="./assets/cards/kuralverse.svg" width="30%" alt="Kuralverse: in development" />&nbsp;&nbsp;&nbsp;
+  <img src="./assets/cards/locked.svg" width="30%" alt="Next project locked" />
+</p>
+<p align="center">
   <img src="./gitartwork.svg?v=a8d3befe" alt="LOGESH on my GitHub contribution graph" />
 </p>
