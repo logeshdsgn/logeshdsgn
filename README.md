@@ -16,8 +16,8 @@
 ## FEATURED PROJECTS
 
 <p align="center">
-  <a href="https://logeshdsgn.github.io/prompt_mania/"><img src="./assets/cards/prompt-mania.svg" width="32%" alt="Prompt Mania: curated prompt engineering framework library" /></a>
-  <a href="https://github.com/logeshdsgn/tamil-clock"><img src="./assets/cards/tamil-clock.svg" width="32%" alt="Tamil Clock: interactive Tamilakam-inspired clock" /></a>
+  <a href="https://logeshdsgn.github.io/prompt_mania/"><img src="./assets/cards/prompt-mania.svg" width="30%" alt="Prompt Mania: curated prompt engineering framework library" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/logeshdsgn/tamil-clock"><img src="./assets/cards/tamil-clock.svg" width="30%" alt="Tamil Clock: interactive Tamilakam-inspired clock" /></a>
 </p>
 <p align="center">
   <img src="./gitartwork.svg?v=a8d3befe" alt="LOGESH on my GitHub contribution graph" />
