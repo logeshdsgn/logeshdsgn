@@ -15,8 +15,8 @@
 
 <h2 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-projects-heading-dark.svg" />
-    <img src="./assets/featured-projects-heading-light.svg" alt="FEATURED PROJECTS" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/featured-projects-heading-dark-v2.svg" />
+    <img src="./assets/featured-projects-heading-light-v2.svg" alt="FEATURED PROJECTS" width="100%" />
   </picture>
 </h2>
 
