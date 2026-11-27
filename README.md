@@ -10,7 +10,11 @@
   <img src="./assets/arcade-lines.gif?v=c4548326" alt="Building creative experiences through AI, 3D &amp; digital design. Exploring where imagination meets technology." />
 </p>
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="88%" alt="Animated retro tech stack" />
+  <picture>
+    <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark-mobile.svg" />
+    <source media="(max-width: 480px) and (prefers-color-scheme: light)" srcset="./assets/tech-stack-light-mobile.svg" />
+    <img src="./assets/tech-stack.svg" width="80%" alt="Animated retro tech stack" />
+  </picture>
 </p>
 
 <h2 align="center">
