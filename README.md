@@ -13,7 +13,7 @@
   <picture>
     <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark-mobile.svg" />
     <source media="(max-width: 480px) and (prefers-color-scheme: light)" srcset="./assets/tech-stack-light-mobile.svg" />
-    <img src="./assets/tech-stack.svg" width="80%" alt="Animated retro tech stack" />
+    <img src="./assets/tech-stack.svg" width="100%" alt="Animated retro tech stack" />
   </picture>
 </p>
 
