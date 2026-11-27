@@ -11,9 +11,9 @@
 </p>
 <p align="center">
   <picture>
-    <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark-mobile.svg" />
-    <source media="(max-width: 480px) and (prefers-color-scheme: light)" srcset="./assets/tech-stack-light-mobile.svg" />
-    <img src="./assets/tech-stack.svg" width="100%" alt="Animated retro tech stack" />
+    <source media="(max-width: 480px) and (prefers-color-scheme: dark)" srcset="./assets/tech-stack-dark-mobile.svg?v=085697a1ffcc74691524f75f0b51f9d196b6c9ab" />
+    <source media="(max-width: 480px) and (prefers-color-scheme: light)" srcset="./assets/tech-stack-light-mobile.svg?v=3b4283c99895c15a366302f8993ed55a5d20ef91" />
+    <img src="./assets/tech-stack.svg?v=ecec895fda71dff225940e3312b0b2ae0f058567" width="100%" alt="Animated retro tech stack" />
   </picture>
 </p>
 
